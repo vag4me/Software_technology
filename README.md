@@ -1,1 +1,1 @@
-https://expo.dev/artifacts/eas/pqjy2DGaor8rjXEZaBfyNw.apk
+https://expo.dev/artifacts/eas/tAWCzMtm24ueoPPYQtS7kF.apk
